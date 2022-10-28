@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "document-management",
+    "libraryId": "ff584850-e94d-4e82-aea1-5ff7bf65fbdd",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "DocumentManagement",
+    "solutionShortDescription": "DocumentManagement description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
